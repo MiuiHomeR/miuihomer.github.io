@@ -1,4 +1,5 @@
 ![logo](https://github.com/MiuiHomeR/miuihomer.github.io/raw/main/header.png#pic_center)
+![logo](header.png#pic_center)
 <div>
 <img src="header.png"/>
 </div>
