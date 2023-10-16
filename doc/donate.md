@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 赞助
+permalink: /default.html
 ---
 
 ## 赞助
