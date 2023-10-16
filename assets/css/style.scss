@@ -13,14 +13,14 @@ body a {
 }
 
 /* 根据系统的深色模式响应深色变量 */
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
-    --bg: #ffff;
+    --bg: #fff;
     --textColor: #282c34;
     --borderColor: #2c2c3a;
   }
 }
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
   :root {
     --bg: #282c34;
     --textColor: #efefef;
