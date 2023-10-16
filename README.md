@@ -16,6 +16,6 @@
   展开查看二维码
  </summary>
  <div>
-  <img src="https://github.com/MiuiHomeR/miuihomer.github.io/blob/main/QQChannel.jpg" />
+  <img src="https://github.com/MiuiHomeR/miuihomer.github.io/raw/main/QQChannel.jpg" />
  </div>
 </details>
