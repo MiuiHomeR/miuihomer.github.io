@@ -8,6 +8,12 @@
  - [x] 三宫格
  - [x] 平板多任务
  - [ ] 堆叠桌面(by TAT趙)
-
+ - [ ] ...
 
 ### QQ频道：MiuiHomeR
+<details>
+ <summary>
+  展开查看二维码
+ </summary>
+ ![QRcode]()
+</details>
