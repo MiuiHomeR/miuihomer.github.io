@@ -2,6 +2,7 @@ title: MiuiHomeR
 language: 'zh'
 
 logo: header.png
+favico: favicon.ico
 
 google_analytics:
 theme: jekyll-theme-minimal
