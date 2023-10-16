@@ -1,4 +1,8 @@
+site_name: MiuiHomeR
+site_description: 
+site_author: 薛定谔の鼠
+site_url: https://miuihomer.github.io/
+
 theme:
   favicon: 'assets/images/favico.ico'
   language: 'zh'
-  title: 'MiuiHomeR'
