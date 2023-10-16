@@ -15,5 +15,7 @@
  <summary>
   展开查看二维码
  </summary>
- ![QRcode]()
+ <div>
+  <img src="https://github.com/MiuiHomeR/miuihomer.github.io/blob/main/QQChannel.jpg" />
+ </div>
 </details>
