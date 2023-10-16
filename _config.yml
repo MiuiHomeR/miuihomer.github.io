@@ -1,5 +1,4 @@
 theme:
-  name: jekyll-theme-cayman
-  favicon: 'logo.png'
+  favicon: 'assets/images/favico.ico'
   language: 'zh'
   title: 'MiuiHomeR'
