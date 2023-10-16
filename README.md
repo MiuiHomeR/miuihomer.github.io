@@ -1,4 +1,4 @@
-# MiuiHomeR
+![logo](https://github.com/MiuiHomeR/miuihomer.github.io/blob/main/header.png#pic_center)
 
 ### 关于MiuiHomeR
 - 针对官方桌面进行一定程度的修改
