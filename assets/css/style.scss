@@ -3,6 +3,15 @@
 ---
 @import "{{ site.theme }}";
 
+body {
+  color: var(--text-color);
+  background: var(--bg);
+}
+
+body a {
+  color: var(--link-color);
+}
+
 /* 根据系统的深色模式响应深色变量 */
 @media (prefers-color-scheme: dark) {
   :root {
