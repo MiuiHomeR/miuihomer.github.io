@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 赞助
-permalink: /donate.html
 ---
 
 ## 赞助
