@@ -1,5 +1,7 @@
 title: MiuiHomeR
 language: 'zh'
-show_downloads: false
+
+logo: header.png
+
 google_analytics:
 theme: jekyll-theme-minimal
