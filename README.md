@@ -1,8 +1,5 @@
 ![logo](https://github.com/MiuiHomeR/miuihomer.github.io/raw/main/header.png#pic_center)
 ![logo](header.png#pic_center)
-<div>
-<img src="header.png"/>
-</div>
 
 ### 关于MiuiHomeR
 - 针对官方桌面进行一定程度的修改
