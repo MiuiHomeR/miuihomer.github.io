@@ -1,4 +1,3 @@
-![logo](https://github.com/MiuiHomeR/miuihomer.github.io/raw/main/header.png#pic_center)
 ![logo](header.png#pic_center)
 
 ### 关于MiuiHomeR
