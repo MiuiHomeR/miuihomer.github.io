@@ -6,3 +6,6 @@ favico: /favicon.ico?
 
 google_analytics:
 theme: jekyll-theme-minimal
+
+github.owner_url: https://github.com/MiuiHomeR
+github.owner_name: 薛定谔の胡桃
