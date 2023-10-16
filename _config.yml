@@ -1,5 +1,5 @@
 theme:
-  name:'jekyll-theme-cayman'
-  favicon:'logo.png'
-  language:'zh'
-  title:'MiuiHomeR'
+  name: jekyll-theme-cayman
+  favicon: 'logo.png'
+  language: 'zh'
+  title: 'MiuiHomeR'
