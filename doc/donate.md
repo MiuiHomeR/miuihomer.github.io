@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 赞助
-permalink: ../_layouts/default.html
+permalink: /donate.html
 ---
 
 ## 赞助
