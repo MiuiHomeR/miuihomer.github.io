@@ -21,9 +21,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        {% if site.favico %}
-          <link rel="icon" type="image/x-icon" href="{{site.favico | relative_url}}">
-        {% endif %}
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
