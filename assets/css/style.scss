@@ -12,6 +12,10 @@ body a {
   color: var(--link-color);
 }
 
+h2 h3 {
+  color: var(--text-color);
+}
+
 /* 根据系统的深色模式响应深色变量 */
 @media (prefers-color-scheme: light) {
   :root {
