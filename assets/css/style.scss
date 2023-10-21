@@ -8,11 +8,11 @@ body {
   background: var(--bg);
 }
 
-body a {
+body, a {
   color: var(--link-color);
 }
 
-h2 h3 {
+h2, h3 {
   color: var(--text-color);
 }
 
@@ -32,7 +32,7 @@ h2 h3 {
   }
 }
 
-h1 {
+h1, h2 {
  
 display: none;
  
