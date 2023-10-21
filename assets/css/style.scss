@@ -16,14 +16,14 @@ body a {
 @media (prefers-color-scheme: light) {
   :root {
     --bg: #fff;
-    --textColor: #282c34;
+    --text-color: #282c34;
     --borderColor: #2c2c3a;
   }
 }
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #282c34;
-    --textColor: #efefef;
+    --text-color: #efefef;
     --borderColor: #2c2c3a;
   }
 }
